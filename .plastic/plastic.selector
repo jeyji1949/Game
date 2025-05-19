@@ -1,4 +1,3 @@
 repository "ProjetDeStage 2025-05-14_23-19-00/ProjetDeStage@11270592033366@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
